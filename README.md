@@ -1,5 +1,5 @@
 # HMEC-Macros
-For FIJI analysis of HMECs. Written in Ij1 Macro.
+For FIJI analysis of HMECs. Written in IJ1 Macro.
 
 Suitable for 20X general staining
 
