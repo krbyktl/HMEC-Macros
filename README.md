@@ -1,2 +1,4 @@
 # HMEC-Macros
-For FIJI general staining analysis of HMECs
+For FIJI analysis of HMECs
+Suitable for 20X general staining
+Thresholding and Morphological filters must be tweaked for 10X images
